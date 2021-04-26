@@ -151,7 +151,7 @@ Copyright (c) 2012 - Jeremy Long
         <!-- upgrade to 1.4.197 prevents Java 7 compatability -->
         <com.h2database.version>1.4.196</com.h2database.version>
         <commons-cli.version>1.4</commons-cli.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
 
         <!--upgrading beyond lang3 3.4 may cause issues with the Jenkins plugin-->
         <commons-lang3.version>3.4</commons-lang3.version>
